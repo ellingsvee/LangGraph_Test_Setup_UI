@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# More
+.langgraph_api/
+src/ui/node_modules/
+src/ui/pnpm-lock.yaml

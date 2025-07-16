@@ -1,0 +1,12 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "agent": "./src/backend/graph.py:graph"
+    },
+    "ui": {
+        "agent": "./src/ui/index.tsx"
+    },
+    "env": ".env"
+}
