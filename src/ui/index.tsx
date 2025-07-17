@@ -1,4 +1,4 @@
-import SimpleUI from "./my_ui/simple-ui"
+import SimpleUI from "./components/simple-ui"
 
 const ComponentMap = {
     "simple-ui": SimpleUI,
