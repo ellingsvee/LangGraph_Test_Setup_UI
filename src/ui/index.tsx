@@ -1,6 +1,6 @@
-import { Writer } from "./components/writer";
+import SimpleUI from "./my_ui/simple-ui"
 
 const ComponentMap = {
-    writer: Writer,
+    "simple-ui": SimpleUI,
 } as const;
 export default ComponentMap;
